@@ -1,0 +1,15 @@
+pandas
+numpy
+nltk
+pymongo
+requests
+beautifulsoup4
+matplotlib
+seaborn
+networkx
+scikit-learn
+textblob
+streamlit
+plotly
+
+wordcloud
