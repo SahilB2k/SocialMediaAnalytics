@@ -1,0 +1,12 @@
+steps
+1.run logger-----2nd
+2.run scrapper-----2nd
+3.visualize (vizualize.py)-----2nd
+4.rename the csv file to "raw_data.csv"
+5.clean (clean_store.py)-----3rd
+6.visualize cleaned data(cleaning_visualize.py)-----3rd
+7.EDA visualization(eda_visulaization.py)------4th
+8.Content based social media(content_analytic.py)------5th
+9.Structure based social media analytics model(structure_based_analytics.py)------6th
+10.dashboard(dashboard.py)------7th
+
